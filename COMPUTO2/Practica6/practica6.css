@@ -1,31 +1,51 @@
 ul{
-list-style-type:none;
+/* elimina el estilo propio de los elementos de lista */
+
+list-style-type:none; 
 }
 #all-menu {
-width:auto;
+	/*width auto :se establece el ancho del menu */
+width:auto; 
+/* height: establece la altura */
 height: 68px;
+ /* background-color:establece el color de fondo de un elemento */
 background-color:#E8DCC2;
 }
 
 #menu li a{
+	/* font-family:define una lista de fuentes o familias de fuentes */
 font-family:verdana;
+/* font-size: se le asigna un tamaño al texto */
 font-size:15px;
+ /* float left : alinea la posicion del texto */
 float:left;
+/* padding:se encarga de rellenar el espacio entre el contenido del elemento y su borde */
 padding:24px;
+/* background-color:establece el color de fondo del menu */
 background-color:#E8DCC2;
+/* color: define el color de la letra */
 color: #000000;
+/*text-decoration: establece la decoracion */
 text-decoration:none;
+/* height: establece la altura */
 height:18px;
 }
 #menu li a:hover{
+	/* background-color:establece el color de fondo del menu */
 background-color:#f90;
+/* margin-top: establece la anchura de su margen superior */
 margin-top:-2px;
+/* font-weight:especifica el peso o grueso de la letra */
 font-weight:bold;
 }
 .menuCSS3 ul {
+	/* display: controla la estructura */
 		display: flex;
+		/* padding:establece el espacio de relleno requerido por todos los lados de un elemento */
 		padding: 0;
+		/* margin :establece margen */
 		margin: 0;
+		/* list-style:Establece algunas o todas las propiedades del marcador de los elementos de la lista */
 		list-style: none;
 	}
 	.menuCSS3 a {
