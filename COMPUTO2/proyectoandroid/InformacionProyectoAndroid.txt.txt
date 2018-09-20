@@ -1,0 +1,6 @@
+-rubro del sitio: Contexto y segmento de clientes orientado
+            *ejemplo: Ropa para damas
+-Nombre del sitio
+           Nombre de dominio : La bella moda
+-Paleta de colores  :https://color.adobe.com/es/create/color-wheel/?base=4&rule=Analogous&selected=4&name=Mi%20tema%20de%20Color&mode=rgb&rgbvalues=1,0.640101201771031,0.640101201771031,0.91,0.5824920936116381,0.8140071960177396,0.7097977813654994,0.5824920936116381,0.91,1,1,1,0.9114869401009752,0.6078431372549019,1&swatchOrder=0,1,2,3,4
+-tipografía: https://fonts.google.com/?selection.family=Kadwa|Source+Sans+Pro
