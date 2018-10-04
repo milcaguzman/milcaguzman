@@ -67,6 +67,7 @@ article{
 	height:100%;
 	color:#000000;
 	}
+
 aside{
 	position:relative;
 	background-color:#FFFFFF;
@@ -77,10 +78,10 @@ aside{
 	}
 footer{
 	position:relative; 
-	background-color:#102B46;
+	background-color:#FFFFFF;
 	width:98%;
 	height:5%;
-	color:#FFF;
+	color:#000000;
 	clear:both;
 	}
     header,section,footer,aside,article,nav
